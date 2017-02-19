@@ -1,1 +1,3 @@
-# Main file to initialize battleship game
+from modules.game import Game
+
+Game().play()
